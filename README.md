@@ -1,4 +1,4 @@
-# FOIL Project forgor
+# FOIL Project Neural Network Forgetfulness
 
 
 
