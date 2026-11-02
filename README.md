@@ -1,6 +1,6 @@
 # Elastic Weight Consolidation reproduction
 
-Private archive of the EPFL FOIL catastrophic-forgetting project, preserving
+Public archive of the EPFL FOIL catastrophic-forgetting project, preserving
 the shared implementation, submission, exploratory notebooks, and Git history.
 
 ## Project files
@@ -15,7 +15,10 @@ the shared implementation, submission, exploratory notebooks, and Git history.
 
 Recovered on 2026-11-02 from
 [Jan Juraszek's repository](https://github.com/janjuraszek/inference-NN-forgor-project).
-This is a private fork; the original repository was not modified.
+Published as a standalone repository because GitHub does not allow private
+forks to become public. The original repository was not modified, and the
+[private backup fork](https://github.com/ri-ru/elastic-weight-consolidation-private-fork)
+is retained separately.
 All 20 original commits are retained, including eight attributed to `ri-ru`.
 The original tip is `64b6754d1d7939a3839e8dcf035b2af0b3d73ec3` (`exact upload`).
 
